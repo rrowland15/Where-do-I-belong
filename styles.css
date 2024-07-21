@@ -1,0 +1,20 @@
+#user_input {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+#submit_button {
+    font-size: 14px;
+    width: auto;
+    background-color: gainsboro;
+    border-radius: 12px;
+}
+
+#submit_button:hover {
+    color: white;
+}
+
+.checked {
+    color: orange;
+}
